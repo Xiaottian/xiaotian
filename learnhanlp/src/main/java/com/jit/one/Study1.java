@@ -1,12 +1,3 @@
-/**
- * ProjectName:    MyTestProject
- * PackageName:    com.jit.one
- * FileName：      Study1.java
- * Copyright:      Copyright(C) 2018
- * Company:        北京神州泰岳软件股份有限公司
- * Author:         JIT
- * CreateDate:     2018/10/10 9:40
- */
 
 package com.jit.one;
 
